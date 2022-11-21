@@ -1,0 +1,18 @@
+.postHeader {
+    display: flex;
+    background: white
+
+  }
+    
+  .postHeader div i {
+    font-size: 30px;
+    padding: 25px 25px;
+  }
+
+  .postHeader span {
+    padding: 20px 0px;
+  }
+
+  .dotsIcon {
+    padding-left: 65%;
+  }
